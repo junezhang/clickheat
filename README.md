@@ -1,2 +1,8 @@
 # clickheat
 a repo for HeatMap
+
+
+Please read instructions on http://www.labsmedia.com/clickheat/
+
+This software is GPL Open Source. More info on rights linked to this software in the LICENSE file or on http://www.opensource.org/licenses/gpl-license.php
+
